@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![lyric_card_1726136694829](https://github.com/user-attachments/assets/deb02852-e570-48be-b91e-01695d2df6b6)
+
 
 <!--
 **HansJakobVinde/HansJakobVinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
